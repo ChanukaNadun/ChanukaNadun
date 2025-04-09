@@ -10,7 +10,7 @@ Currently diving deep into the world of **.NET Core** while sharpening my fronte
 - 🔭 I’m currently working on: Personal full-stack projects using `.NET Core` and `React`
 - 🌱 I’m currently learning: `.NET Core`, `Entity Framework`, `Clean Architecture`
 - 👯 I’m looking to collaborate on: Open-source projects and real-world applications
-- 💬 Ask me about: `JavaScript`, `React`, `Node.js`, `.NET`, `APIs`, `MongoDB`, and `SQL`
+- 💬 Ask me about: `JavaScript`, `React`, `Next`, `Node.js`, `.NET`, `APIs`, `MongoDB`, and `SQL`
 - 📫 Reach me at: [chanukanadun07@gmail.com](mailto:chanukanadun07@gmail.com)  
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I fix bugs faster with coffee ☕ and lo-fi beats 🎧
@@ -25,6 +25,7 @@ Currently diving deep into the world of **.NET Core** while sharpening my fronte
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Databases**  
