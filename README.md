@@ -42,9 +42,9 @@ Currently diving deep into the world of **.NET Core** while sharpening my fronte
 
 ### 📊 GitHub Stats
 
-![Chanuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChanuNadun&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Chanuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChanukaNadun&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanuNadun&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanukaNadun&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
